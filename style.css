@@ -1,0 +1,255 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.top-green-portion{
+   
+    width: 100%;
+    height: 576px;
+    left: 0px;
+    top: 0px;
+    background-color: #F0FFF0;
+}
+.top-photo img{
+    width: 199px;;
+
+}
+.sign-in{
+    width: 104px;
+    height: 43px;
+    margin-top: 0px;
+    border: 0;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+    transition: .2s;
+}
+.sign-in:hover{
+    background: #F0FFF0;
+    color: blue;
+}
+
+.nav-item {
+    font-size: 16px;
+}
+.bar-nav-col a{
+    color: black;
+    transition: .1s;
+}
+
+.bar-nav-col a:hover{
+    background: #F0FFF0;
+    color: blue;
+}
+
+.top-part-left h6{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: #FD511A;
+}
+
+.top-part-left p{
+    font-size: 16px;
+    color: #6C6B6B;
+}
+
+.top-part-left h1{
+    font-size: 48px;
+}
+
+span{
+    color: #21B573;
+}
+
+.get-started{
+    width: 153px;
+    height: 43px;
+    background: #21B573;
+    border-radius: 33px;
+    padding: 12px 36px;
+    color: white;
+    transition: .2s;
+
+}
+
+.get-started:hover{
+    color: #21B573;
+    background-color: white;
+    border: 1px solid #21B573;
+    text-decoration: none;
+}
+
+.col-md-7 img{
+    position: absolute;
+    width: 80%;
+}
+
+
+
+
+.summery-bar{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.summery-bar h2{
+    font-size: 24px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+}
+
+.summery-bar p{
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    text-align: center;
+}
+
+.col-md-3 img{
+    margin-top: 40px;
+}
+
+.part-1, .part-3 , .part-4{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    border: none;
+    box-shadow:  0px 20px 40px white;
+}
+
+.part-2{
+
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+
+.part-1:hover, .part-2:hover, .part-3:hover, .part-4:hover{
+    background-color: #e1fae1;
+    border-radius: 10px;
+    border: none;
+}
+
+#card-title{
+    text-align: center;
+    color: #413960;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+}
+
+.card{
+    border: none;
+    margin-top: 30px;
+    box-shadow: 0 10px 10px gray;
+}
+
+.card h5{
+    font-size: 24px;
+    color: #413960;
+}
+
+.card p{
+    font-size: 16px;
+    color: #585859;
+}
+
+.buy-course{
+
+    background: #21B573;
+    color: #fff;
+    border: none;
+    border-radius: 33px;
+    padding: 8px 28px;
+    cursor: pointer;
+    transition: .2s;
+}
+
+.buy-course:hover{
+    color: #21B573;
+    background-color: white;
+    border: 1px solid #21B573;
+    text-decoration: none;
+}
+.card img{
+    margin-top: 20px;
+}
+
+.card-text-color{
+    color: #585859;
+}
+
+.testimonial{
+    color: black;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    text-align: center;
+
+    margin-bottom: 50px;
+}
+
+.testimonial-corner{
+    margin-top: 7%;
+    margin-bottom: 6%;
+}
+
+#lorem-testimonial{
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+}
+
+.bottom-black-part{
+    width: 100%;
+    height: 370px;
+    left: 0;
+    top: 0;
+    background:#282531;
+}
+
+.bottom-black-part p{
+    color: white;
+    font-style: normal;
+    font-size: 16px;
+
+}
+
+.col-md-2 h3{
+    color: white;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.bottom-black-part a{
+    color: white;
+    font-style: normal;
+    font-size: 16px;
+    transition: .1s;
+}
+
+.bottom-black-part a:hover{
+    color: lightblue;
+    text-decoration: none;
+}
+
+.bottom-menu{
+    margin-top: 10px;
+    height: 300px;
+}
+
+.bottom-names{
+    font-weight: bolder;
+}
+
+.copyright{
+    text-align: center;
+    background-color: #282531;
+}
+
+
+
+
